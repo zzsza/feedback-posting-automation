@@ -1,6 +1,6 @@
 # feedback-posting-automation
 - 블로그 포스팅 피드백 자동화를 위해 이것저것 Try해보는 Repo
-- 사실 [글또](https://www.slideshare.net/zzsza/ss-137831892)에서 사용할 다양한 도구를 천천히 만들어보려고 하는 Repo
+- 사실 [글또](https://www.slideshare.net/zzsza/ss-137831892)에서 사용할 다양한 도구나 소스를 저장할 Repo
 
 ## Idea
 - 자동화할 수 있는 범위엔 무엇이 있을까
